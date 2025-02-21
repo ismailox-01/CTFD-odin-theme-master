@@ -28,7 +28,7 @@ Here are Some Screenshots 👇:
 ### Installation Guide:
 Open your Docker container's terminal then enter the following Command:
 ```
-git clone https://github.com/0xdevsachin/CTFD-odin-theme.git /opt/CTFd/CTFd/themes/odin
+git clone https://github.com/ismailox-01/CTFD-odin-theme-master /opt/CTFd/CTFd/themes/odin
 ```
 Login as Admin and go to: ```Admin Panel > Config > Themes``` and switch the Theme to odin and Click on Update.
 
